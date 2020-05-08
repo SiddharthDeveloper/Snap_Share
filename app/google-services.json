@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704489601277",
+    "firebase_url": "https://snapshare-58790.firebaseio.com",
+    "project_id": "snapshare-58790",
+    "storage_bucket": "snapshare-58790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704489601277:android:403bdccdd833e386406694",
+        "android_client_info": {
+          "package_name": "com.apkglobal.snapshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704489601277-h53nng6s5fktlev14nfk6u39fv9pnih3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.snapshare",
+            "certificate_hash": "89e28171ad699fe52ea04da68b2f75aed9f30a89"
+          }
+        },
+        {
+          "client_id": "704489601277-f3a82agkqbjn1r4r5ebt7iglsu0kvbm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3tNQMV_XSgFOlA7FxAZhfCDYzPbf5Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704489601277-f3a82agkqbjn1r4r5ebt7iglsu0kvbm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
